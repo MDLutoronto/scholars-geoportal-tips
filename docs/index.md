@@ -1,13 +1,14 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
-layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
-permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+title: "Helpful tips when using Scholars GeoPortal"
+layout: "home"
+description: ""
+permalink: "/"  #! Remove this if not the homepage
 ---
 
-# Just the docs template
+# Helpful tips when using Scholars GeoPortal
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/docs/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+Please[visit this link](http://guides.scholarsportal.info.myaccess.library.utoronto.ca/geoportal/usinggeoportal)for extensive help with Scholars GeoPortal.
+
+[Scholars GeoPortal](http://geo2.scholarsportal.info.myaccess.library.utoronto.ca/)is a geospatial discovery tool that provides access to large scale geospatial datasets that can be used for mapping or analysis. These datasets encompass both vector and raster data on a variety of topics such as land\-use, transportation networks, census geography, aerial imagery, geology, and more. Furthermore, users can customize their data extracts.
+
+Tools: [Scholars GeoPortal](/tools/scholars-geoportal-0)**Date Created:** 2018\-02\-07**Updated:** 2022\-09\-12
