@@ -5,8 +5,8 @@ description: "Please visit this link for extensive help with Scholars GeoPortal.
 created_date: 2018-02-07
 permalink: "/"  #! Remove this if not the homepage
 maintainer:
- - name: Leanne Trimble
-   link: https://library.utoronto.ca/staff/leanne-trimble
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 ---
 
 # Helpful tips when using Scholars GeoPortal
